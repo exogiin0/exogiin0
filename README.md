@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media2.giphy.com/media/l2Sq5Rf1tif2S1C6s/giphy.gif?cid=ecf05e47kndw2dqlwdancefnbc51y4vge2q393oisau71308&rid=giphy.gif&ct=g" width="100px" />
 
 <!--
-**
+###
 My name is Anvar Reymov and I am thrilled to welcome you to my GitHub profile. Here, you will find a collection of my personal projects, contributions to open source projects, and other coding adventures.
 
 I am a lifelong learner and am constantly striving to improve my skills as a developer. Currently, I am focusing on expanding my knowledge of various programming languages, frameworks, and tools. 
