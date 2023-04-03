@@ -24,4 +24,4 @@ Thanks for checking out my GitHub profile. Here's a little bit about what I'm cu
 
 😄 Pronouns: He/Him/His
 
-⚡️ Fun fact: I'm a big fan of board games, and I definitely challenge anyone who crosses my path to a game of chess. Bring it on! <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/614s5bxbmFPFgK9dDU/video" width="480"></iframe></div>
+⚡️ Fun fact: I'm a big fan of board games, and I definitely challenge anyone who crosses my path to a game of chess. Bring it on! 
